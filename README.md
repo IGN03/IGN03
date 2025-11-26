@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IGN03
-- 👀 I’m interested in Security and AI
-- 🌱 I’m currently learning Python and Data Structures
+- 👀 I’m interested in Systems and Software
+- 🌱 I’m learning python, java, javascript, c++, and c
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 
